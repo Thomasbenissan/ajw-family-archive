@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-inter);
+}
+
+/* Override family-chart defaults.
+ * Background layers (back → front):
+ *   1. warm linen base
+ *   2. soft radial vignette — darkening at the edges gives depth
+ *   3. fine dotted paper grain — archival paper texture
+ *
+ * !important is necessary: the library uses `background:` shorthand, which
+ * would otherwise wipe out our background-image.
+ */
+.f3,
+.f3.f3-cont {
+  --background-color: #f5f2ee;
+  --text-color: #2c2c2c;
+  --female-color: transparent;
+  --male-color: transparent;
+  --genderless-color: transparent;
+  font-family: "Inter", sans-serif;
+  background-color: #f5f2ee !important;
+  background-image:
+    radial-gradient(
+      rgba(80, 65, 45, 0.14) 0.8px,
+      rgba(80, 65, 45, 0.08) 1.4px,
+      transparent 2.2px
+    ),
+    radial-gradient(
+      ellipse 85% 85% at center,
+      transparent 50%,
+      rgba(40, 30, 20, 0.14) 100%
+    ) !important;
+  background-size: 40px 40px, 100% 100% !important;
+  background-position: 0 0, center center !important;
+  background-repeat: repeat, no-repeat !important;
+  color: #2c2c2c !important;
+}
+
+.f3.f3-cont {
+  max-height: none;
+}
+
+/* Warm connector lines */
+.f3 .link {
+  stroke: #c4bfb8;
+  stroke-width: 1.5px;
+}
+
+.f3 .link.f3-path-to-main {
+  stroke: #7c9a92;
+  stroke-width: 2.5px;
+}
+
+/* Strip ALL default card styling — we draw our own white cards */
+.f3 div.card-inner {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  outline: none !important;
+  border: none !important;
+}
+
+.f3 div.card-female .card-inner,
+.f3 div.card-male .card-inner,
+.f3 div.card-genderless .card-inner,
+.f3 div.card-new-rel .card-inner,
+.f3 div.card-main .card-inner {
+  background-color: transparent !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Remove library hover translate — our cards handle their own hover */
+.f3 div.card:hover > div {
+  transform: none !important;
+}
+
+.f3 div.card-main .card-inner,
+.f3 div.card:hover .card-inner {
+  box-shadow: none !important;
+}
+
+/* Card hover effect — applied to our inner .white-card */
+.f3 .white-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08) !important;
+  transform: translateY(-1px);
+}
+
+/* Active/selected card highlight */
+.f3 div.card-main .white-card {
+  border-color: #7c9a92 !important;
+  box-shadow: 0 2px 8px rgba(124, 154, 146, 0.18) !important;
+}
+
+/* Hide library's nav controls and form */
+.f3-nav-cont,
+.f3-history-controls,
+.f3-form-cont {
+  display: none !important;
+}
+
+/* Ensure SVG fills container */
+.f3 svg.main_svg {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,116 @@
+person_id,year,county,state,latitude,longitude,event,source_doc,details
+andrew_j_white,1815,Elbert,GA,34.11,-82.84,Born,,Birth record
+andrew_j_white,1850,Macon,GA,32.84,-83.63,Census,1850_census.pdf,Merchant in Macon
+andrew_j_white,1860,The Rock,GA,32.88,-84.35,Census,1860_census.pdf,Farmer in The Rock
+andrew_j_white,1864,Upson,GA,32.88,-84.35,Other,,Living in Upson County
+andrew_j_white,1870,Macon,GA,32.84,-83.63,Census,1870_census.pdf,Railroad president in Macon
+andrew_j_white,1880,Milner,GA,33.12,-84.20,Census,1880_census.jpg,Farmer in Pike County
+andrew_j_white,1888,Milner,GA,33.12,-84.20,Died,,Died in Milner
+hannah_white,1845,Washington,DC,38.91,-77.04,Born,,Birth record
+hannah_white,1870,Pike,GA,33.09,-84.40,Census,1870_census.pdf,Domestic servant
+hannah_white,1880,Pike,GA,33.09,-84.40,Census,1880_census.pdf,Housekeeper
+hannah_white,1900,Milner,GA,33.12,-84.20,Census,1900_census.pdf,Servant in Milner
+hannah_white,1910,Atlanta,GA,33.75,-84.39,Census,1910_census.pdf,Laundress in Atlanta
+hannah_white,1920,Milner,GA,33.12,-84.20,Census,1920_census.pdf,Servant in Milner
+hannah_white,1930,Milner,GA,33.12,-84.20,Census,1930_census.jpg,Living in Milner
+hannah_white,1931,Milner,GA,33.12,-84.20,Died,,Died in Milner
+anna_l_white,1863,The Rock,GA,32.88,-84.35,Born,,Born in The Rock
+anna_l_white,1870,Pike,GA,33.09,-84.40,Census,1870_census.pdf,Living in Pike County
+anna_l_white,1875,Providence,RI,41.82,-71.41,Other,,Boarder in Providence
+anna_l_white,1877,Milner,GA,33.12,-84.20,Other,,Back in Milner
+anna_l_white,1888,Manhattan,NY,40.78,-73.97,Other,med_school.pdf,Graduated medical school
+anna_l_white,1900,Manhattan,NY,40.78,-73.97,Census,1900_census.pdf,Physician in Manhattan
+anna_l_white,1910,Manhattan,NY,40.78,-73.97,Census,1910_census.jpg,Physician in Manhattan
+anna_l_white,1912,Manhattan,NY,40.78,-73.97,Died,,Died at French Hospital
+sarah_a_white_tighe,1865,The Rock,GA,32.88,-84.35,Born,,Born in The Rock
+sarah_a_white_tighe,1870,Pike,GA,33.09,-84.40,Census,1870_census.pdf,Living in Pike County
+sarah_a_white_tighe,1894,Chicago,IL,41.88,-87.63,Marriage,marriage_tighe.pdf,Married Nathaniel Tighe
+sarah_a_white_tighe,1900,Chicago,IL,41.88,-87.63,Census,1900_census.pdf,Secretary in Chicago
+sarah_a_white_tighe,1910,Chicago,IL,41.88,-87.63,Census,1910_census.pdf,Living in Chicago
+sarah_a_white_tighe,1912,Buffalo,NY,42.89,-78.88,Other,,Moved to Buffalo
+sarah_a_white_tighe,1920,Buffalo,NY,42.89,-78.88,Census,1920_census.jpg,Living in Buffalo
+sarah_a_white_tighe,1925,Buffalo,NY,42.89,-78.88,Other,,Living in Buffalo
+sarah_a_white_tighe,1928,Buffalo,NY,42.89,-78.88,Died,,Died in Buffalo
+william_e_white,1860,The Rock,GA,32.88,-84.35,Born,,Born in The Rock
+william_e_white,1870,Pike,GA,33.09,-84.40,Census,1870_census.pdf,Living in Pike County
+william_e_white,1874,Milner,GA,33.12,-84.20,Other,,Living in Milner
+william_e_white,1874,Providence,RI,41.82,-71.41,Other,1874_boarding_school.jpg,Attending Friends Boarding School
+william_e_white,1875,Providence,RI,41.82,-71.41,Other,,Boarder in Providence
+william_e_white,1880,Providence,RI,41.82,-71.41,Census,1880_census.pdf,Student in Providence
+william_e_white,1882,Providence,RI,41.82,-71.41,Other,,Living in Providence
+william_e_white,1893,Chicago,IL,41.88,-87.63,Marriage,marriage_white.pdf,Married Harriet Hill
+william_e_white,1898,Providence,RI,41.82,-71.41,Other,,Back in Rhode Island
+william_e_white,1900,Chicago,IL,41.88,-87.63,Census,1900_census.pdf,Bookkeeper in Chicago
+william_e_white,1904,Providence,RI,41.82,-71.41,Other,,Back in Rhode Island
+william_e_white,1905,Milner,GA,33.12,-84.20,Other,,Living in Milner
+william_e_white,1910,Chicago,IL,41.88,-87.63,Census,1910_census.pdf,Draftsman in Chicago
+william_e_white,1920,Harvey,IL,41.61,-87.65,Census,1920_census.pdf,Laborer in Harvey
+william_e_white,1937,Chicago,IL,41.88,-87.63,Died,,Died in Chicago
+nathaniel_a_tighe,1866,Manhattan,NY,40.78,-73.97,Born,,Born in New York
+nathaniel_a_tighe,1894,Chicago,IL,41.88,-87.63,Marriage,marriage_tighe.pdf,Married Sarah White
+nathaniel_a_tighe,1900,Chicago,IL,41.88,-87.63,Census,1900_census.pdf,Clerk in stove industry
+nathaniel_a_tighe,1910,Chicago,IL,41.88,-87.63,Census,1910_census.pdf,Manager in Chicago
+nathaniel_a_tighe,1920,Buffalo,NY,42.89,-78.88,Census,1920_census.pdf,Living in Buffalo
+nathaniel_a_tighe,1925,Buffalo,NY,42.89,-78.88,Other,,Living in Buffalo
+nathaniel_a_tighe,1936,Buffalo,NY,42.89,-78.88,Died,,Death record
+harriet_b_hill,1873,Chicago,IL,41.88,-87.63,Born,,Born in Illinois
+harriet_b_hill,1893,Chicago,IL,41.88,-87.63,Marriage,marriage_white.pdf,Married William White
+harriet_b_hill,1904,Chicago,IL,41.88,-87.63,Other,,Furniture work in Chicago
+harriet_b_hill,1973,Chicago,IL,41.88,-87.63,Died,,Died in Chicago
+gladys_h_white,1894,Chicago,IL,41.88,-87.63,Born,,Birth record
+gladys_h_white,1900,Chicago,IL,41.88,-87.63,Census,1900_census.pdf,Daughter in Chicago
+gladys_h_white,1910,Chicago,IL,41.88,-87.63,Census,1910_census.pdf,Daughter in Chicago
+gladys_h_white,1920,Chicago,IL,41.88,-87.63,Census,1920_census.jpg,Living in Chicago
+gladys_h_white,1920,Chicago,IL,41.88,-87.63,Marriage,marriage_bierma.pdf,Married Albert Bierma
+gladys_h_white,1924,Honolulu,HI,21.31,-157.86,Other,,Traveled to Honolulu
+gladys_h_white,1926,Chicago,IL,41.88,-87.63,Died,,Died in Chicago
+vera_a_white,1897,Chicago,IL,41.88,-87.63,Born,,Birth record
+vera_a_white,1900,Chicago,IL,41.88,-87.63,Census,1900_census.pdf,Daughter in Chicago
+vera_a_white,1910,Chicago,IL,41.88,-87.63,Census,1910_census.pdf,Daughter in Chicago
+vera_a_white,1920,Chicago,IL,41.88,-87.63,Census,1920_census.pdf,Cashier in Chicago
+vera_a_white,1930,Chicago,IL,41.88,-87.63,Census,1930_census.pdf,Private secretary
+vera_a_white,1940,Chicago,IL,41.88,-87.63,Census,1940_census.pdf,Living in Chicago
+vera_a_white,1950,Chicago,IL,41.88,-87.63,Census,1950_census.jpg,Living in Chicago
+vera_a_white,1976,Chicago,IL,41.88,-87.63,Died,,Death record
+j_bernice_white,1907,Chicago,IL,41.88,-87.63,Born,,Birth record
+j_bernice_white,1910,Chicago,IL,41.88,-87.63,Census,1910_census.pdf,Daughter in Chicago
+j_bernice_white,1920,Chicago,IL,41.88,-87.63,Census,1920_census.pdf,Daughter in Chicago
+j_bernice_white,1925,Chicago,IL,41.88,-87.63,Other,1925_yearbook.jpg,High school yearbook
+j_bernice_white,1930,Chicago,IL,41.88,-87.63,Census,1930_census.pdf,Office worker
+j_bernice_white,1940,Chicago,IL,41.88,-87.63,Census,1940_census.pdf,File clerk
+j_bernice_white,1950,Chicago,IL,41.88,-87.63,Census,1950_census.pdf,File clerk
+j_bernice_white,1960,Oak Park,IL,41.88,-87.79,Other,,Moved to Oak Park
+j_bernice_white,1970,Chicago,IL,41.88,-87.63,Died,,Died in Cook County
+albert_e_bierma,1893,Chicago,IL,41.88,-87.63,Born,,Birth record
+albert_e_bierma,1900,Chicago,IL,41.88,-87.63,Census,1900_census.pdf,Student in Chicago
+albert_e_bierma,1910,Chicago,IL,41.88,-87.63,Census,1910_census.pdf,Salesman in Chicago
+albert_e_bierma,1920,Chicago,IL,41.88,-87.63,Marriage,marriage_bierma.pdf,Married Gladys White
+albert_e_bierma,1930,Maine Township,IL,42.04,-87.88,Census,1930_census.pdf,Brewmaster
+albert_e_bierma,1940,Chicago,IL,41.88,-87.63,Census,1940_census.pdf,Clerical work
+albert_e_bierma,1950,Arlington Heights,IL,42.09,-87.98,Census,1950_census.pdf,Payroll master
+albert_e_bierma,1963,Arlington Heights,IL,42.09,-87.98,Died,,Died in Arlington Heights
+roy_n_patrick,1899,Chicago,IL,41.88,-87.63,Born,,Born in Illinois
+roy_n_patrick,1935,Chicago,IL,41.88,-87.63,Other,,Living in Chicago
+roy_n_patrick,1940,Chicago,IL,41.88,-87.63,Census,1940_census.pdf,Barber in Chicago
+roy_n_patrick,1950,Chicago,IL,41.88,-87.63,Census,1950_census.pdf,Barber in Chicago
+roy_n_patrick,1954,Chicago,IL,41.88,-87.63,Died,,Death record
+lois_v_patrick_deangelis,1939,Chicago,IL,41.88,-87.63,Born,,Born in Illinois
+lois_v_patrick_deangelis,1940,Chicago,IL,41.88,-87.63,Census,1940_census.pdf,Daughter in Chicago
+lois_v_patrick_deangelis,1950,Chicago,IL,41.88,-87.63,Census,1950_census.pdf,Daughter in Chicago
+lois_v_patrick_deangelis,1958,Chicago,IL,41.88,-87.63,Marriage,marriage_ferrill.pdf,Married Craig Ferrill
+lois_v_patrick_deangelis,1967,Melrose Park,IL,41.90,-87.86,Marriage,marriage_2.pdf,Second marriage
+lois_v_patrick_deangelis,2003,Grayslake,IL,42.34,-88.04,Other,,Moved to Grayslake
+lois_v_patrick_deangelis,2020,Grayslake,IL,42.34,-88.04,Died,,Death record
+lucille_m_ryan,1911,Manhattan,NY,40.78,-73.97,Born,,Born in New York
+lucille_m_ryan,1930,Chicago,IL,41.88,-87.63,Census,1930_census.pdf,Clerical worker
+lucille_m_ryan,1972,Chicago,IL,41.88,-87.63,Died,,Death record
+craig_f_ferril,1938,Chicago,IL,41.88,-87.63,Born,,Born in Illinois
+craig_f_ferril,1950,Chicago,IL,41.88,-87.63,Census,1950_census.pdf,Son in Chicago
+craig_f_ferril,1958,Chicago,IL,41.88,-87.63,Marriage,marriage_ferrill.pdf,Married Lois DeAngelis
+craig_f_ferril,1983,Chicago,IL,41.88,-87.63,Died,,Death record
+benjamin_deangelis,1985,Greeneville,TN,36.16,-82.83,Other,,Lives in Greeneville
+samuel_deangelis,1989,Greeneville,TN,36.16,-82.83,Other,,Lives in Greeneville
+jeremy_deangelis,1983,Greeneville,TN,36.16,-82.83,Other,,Lives in Greeneville
+courtney_deangelis,1990,Greeneville,TN,36.16,-82.83,Other,,Lives in Greeneville
+samantha_deangelis,1990,Greeneville,TN,36.16,-82.83,Other,,Lives in Greeneville
+michelle_deangelis,1982,Greeneville,TN,36.16,-82.83,Other,,Lives in Greeneville
